@@ -1,0 +1,61 @@
+header img{
+    height: 40px;
+
+}
+header {
+    background-color: black;
+   
+}
+.a{
+    display: flex;
+    justify-content:space-around;
+}
+header h1{
+    text-align: center;
+color: azure;
+}
+header a{
+    background-color: aliceblue;
+    border: 3px solid yellow;
+    margin: 20px;
+    border-radius: 15px;
+    width: 30px;
+    
+   
+}
+main{
+    background-color:black ;
+    color: aliceblue;
+}
+.s{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+main img{
+    height: 100px;
+}
+main p{
+     font-size: 30px;
+}
+article{
+    border: 3px double white;
+    width: 200px;
+    margin: 5px;
+    background-color: yellow;
+    color: aqua;
+}
+body{
+    background-color: black;
+}
+ul img{
+    width: 200px;
+    height: 200px;
+}
+footer{
+    background-color: yellow;
+}
+.h{
+    float: right;
+    background-color: orange;
+}
